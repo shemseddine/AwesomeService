@@ -1,5 +1,4 @@
 ﻿using AwesomeService.Core;
-using System;
 
 namespace AwesomeService.WindowsService
 {
